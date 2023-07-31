@@ -1,2 +1,2 @@
 # BrandName-Generator
-dynamic grand name generator made with EJS  and Express.JS framework of Node.js
+dynamic band name generator made with EJS [Embedded Javacript]  and Express.JS framework of Node.js
